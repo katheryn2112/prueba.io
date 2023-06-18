@@ -133,7 +133,7 @@ Respuesta al consultar un documento:
     "impuesto": "0.0",
     "total": "11200.0",
     "saldo": "10000.0",
-      "cobro": 
+    "cobro": 
     [{
 	    "id": "7466",
 	    "fecha_emision": "13/06/2023",
@@ -229,7 +229,8 @@ Datos que devuelve al obtener un listado de documentos:
 	    "forma_cobro": 0,
 	    "total": "11200.0"
     }],
-    "retencion": [{
+    "retencion": 
+    [{
       "id": "56051",
       "fecha_emision": "13/06/2023",
       "valor": "100.0",
